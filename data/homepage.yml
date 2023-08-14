@@ -1,7 +1,7 @@
 # homepage
 homepage:
   head:
-    title: "Home | Raditian"
+    title: "Home | Ashwani Sajeevan"
 # showcase
 showcase:
   enable: true
@@ -19,32 +19,32 @@ showcase:
   button:
     icon: "icon-mail-fill"
     btnText: "Contact"
-    URL: "https://radity.com/en/contact/"
+    URL: "https://ashwanis.in/#contact"
 
   socialLinks:
     - icon: "linkedin"
-      URL: "https://www.linkedin.com/company/radity/"
+      URL: "https://www.linkedin.com/ashwanu/"
 
     - icon: "github"
-      URL: "https://github.com/radity"
+      URL: "https://github.com/ashwani"
 
     - icon: "twitter"
-      URL: "https://twitter.com/radity"
+      URL: "https://twitter.com/ashwani"
 
     - icon: "dribbble"
-      URL: "https://dribbble.com/radity"
+      URL: "https://dribbble.com/ashwani"
 
     - icon: "behance"
-      URL: "https://www.behance.net/radity-digital"
+      URL: "https://www.behance.net/ashwani-digital"
 
     - icon: "youtube"
       URL: "https://www.youtube.com/channel/UCojEc6SPO-W1_CoeHhK9-Zw"
 
     - icon: "instagram"
-      URL: "https://www.instagram.com/teamradity/"
+      URL: "https://www.instagram.com/teamashwani/"
 
     - icon: "facebook"
-      URL: "https://www.facebook.com/raditycom/"
+      URL: "https://www.facebook.com/ashwanicom/"
 
     - icon: "codepen"
       URL: "#"
@@ -64,7 +64,7 @@ about:
   button:
     icon: "icon-smile-fill"
     btnText: "About Me"
-    URL: "https://www.linkedin.com/company/radity/"
+    URL: "https://www.linkedin.com/ashwani/"
   button2:
     icon: "icon-profile-fill"
     btnText: "Download My Resume"
@@ -180,26 +180,26 @@ testimonial:
   enable: true
   title: "Testimonials"
   items:
-    - name: "Daniel Jordan"
-      position: "Phonet, CEO"
-      content: "Cold calling can be a great way to generate quality leads. You get to speak to the gatekeepers and stakeholders, and you get a great insight into their requirements and influences. But cold calling is an art-form. It can be daunting, it’s always a lot of work, and you always need to make a good impression."
+    - name: "Deepa"
+      position: "Professor, University of Calicut"
+      content: "Ms. Ashwani Sajeevan's efficiency in data management is truly remarkable. Her swift and accurate work as a Data Management Coordinator has greatly streamlined our processes. A reliable professional who consistently delivers exceptional results."
       image:
-        x: "img/testimonials/daniel-jordan.jpg"
-        _2x: "img/testimonials/daniel-jordan@2x.jpg"
+        x: "img/testimonials/sm.jpg"
+        _2x: "img/testimonials/sm2x.jpg"
 
-    - name: "Jonathan Peters"
-      position: "Textic, CEO"
-      content: "Whether you or your loved one is encountering the natural decrease in mobility that occurs with the passing of time, or deals with an illness-related lack of physical agility, a stair lift can be the ideal way to put you in charge of your home again. Regardless of the shape or make of your living accommodation."
+    - name: "Aravind"
+      position: "Professor, University of Calicut"
+      content: "Ms. Ashwani Sajeevan's efficiency in data management is truly remarkable. Her swift and accurate work as a Data Management Coordinator has greatly streamlined our processes. A reliable professional who consistently delivers exceptional results."
       image:
-        x: "img/testimonials/jonathan-peters.jpg"
-        _2x: "img/testimonials/jonathan-peters@2x.jpg"
+        x: "img/testimonials/sm.jpg"
+        _2x: "img/testimonials/sm2x.jpg"
 
     - name: "Anil Karakulam"
       position: "Film Director, President KKN"
       content: "Ms. Ashwani Sajeevan's efficiency in data management is truly remarkable. Her swift and accurate work as a Data Management Coordinator has greatly streamlined our processes. A reliable professional who consistently delivers exceptional results."
       image:
-        x: "img/testimonials/antonio-willis.jpg"
-        _2x: "img/testimonials/antonio-willis@2x.jpg"
+        x: "img/testimonials/sm.jpg"
+        _2x: "img/testimonials/sm2x.jpg"
 
 # contact
 contact:
@@ -216,10 +216,10 @@ contact:
     number: "+41 (44) 505 10 99"
   email:
     title: "Email"
-    email: '<a href="mailto:team@radity.com">team@radity.com</a>'
+    email: '<a href="mailto:ashwanimsajeevan@gmail.com">ashwanimsajeevan@gmail.com</a>'
   address:
     title: "Address"
-    address: "Radity GmbH<br />Max-Bill-Platz 5, 8050 Zürich"
+    address: "135 Taylor Rd, Niagara-on-the-Lake,<br/> ON L0S 1J0, Canada"
   button:
     icon: "icon-mail-fill"
     btnText: "Send Message"
