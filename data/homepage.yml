@@ -1,0 +1,233 @@
+# homepage
+homepage:
+  head:
+    title: "Home | Raditian"
+# showcase
+showcase:
+  enable: true
+  title: "Hello, I’m Ashwani."
+  subtitle: "Engineering student"
+  description: "Hi, I'm Ashwani Sajeevan, a Photonics Engineering student at Niagara College. I have a background in physics and I enjoy exploring various phenomena in the field."
+  image:
+    alt: "Showcase keyboard and mouse image"
+    x: "img/showcase/showcase.png"
+    _2x: "img/showcase/showcase@2x.png"
+  imageMobile:
+    alt: "Showcase keyboard and mouse image"
+    x: "img/showcase/showcase-mobile.jpg"
+
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Contact"
+    URL: "https://radity.com/en/contact/"
+
+  socialLinks:
+    - icon: "linkedin"
+      URL: "https://www.linkedin.com/company/radity/"
+
+    - icon: "github"
+      URL: "https://github.com/radity"
+
+    - icon: "twitter"
+      URL: "https://twitter.com/radity"
+
+    - icon: "dribbble"
+      URL: "https://dribbble.com/radity"
+
+    - icon: "behance"
+      URL: "https://www.behance.net/radity-digital"
+
+    - icon: "youtube"
+      URL: "https://www.youtube.com/channel/UCojEc6SPO-W1_CoeHhK9-Zw"
+
+    - icon: "instagram"
+      URL: "https://www.instagram.com/teamradity/"
+
+    - icon: "facebook"
+      URL: "https://www.facebook.com/raditycom/"
+
+    - icon: "codepen"
+      URL: "#"
+
+    - icon: "yelp"
+      URL: "https://www.yelp.com/"
+
+# about
+about:
+  enable: true
+  title: "Who am I?"
+  content: '<p class="lead">
+    Additionally, I am interested in learning about other technical communities. I am a fast learner,
+    sociable, and possess leadership qualities. Apart from my studies, I have organized several events 
+    during my time in college. I am highly motivated and aware of my responsibilities.
+    </p>'
+  button:
+    icon: "icon-smile-fill"
+    btnText: "About Me"
+    URL: "https://www.linkedin.com/company/radity/"
+  button2:
+    icon: "icon-profile-fill"
+    btnText: "Download My Resume"
+    URL: "#"
+  image:
+    x: "img/who-am-i/user-picture.png"
+    _2x: "img/who-am-i/user-picture@2x.png"
+
+# education
+education:
+  enable: true
+  title: "Education"
+  items:
+    - university: "University of Calicut, Kerala, India"
+      year: "2019-2022"
+      degree: "Bachelor of Physics (BSc. Phy)"
+
+    - university: "Kerala State Higher Secondary Board"
+      year: "2017-2019"
+      degree: "Higher Secondary"
+
+# experience
+experience:
+  enable: true
+  title: "Experience"
+  description: "Engaged in data collection and sorting for KKN Residents Association for a year, enhancing organizational and community management skills. Ready to leverage these skills in future endeavors."
+  button:
+    icon: "icon-linkedin-fill"
+    btnText: "Linkedin"
+    URL: "https://www.linkedin.com/company/radity/"
+  button2:
+    icon: "icon-profile-fill"
+    btnText: "Download My Resume"
+    URL: "#"
+
+  items:
+    - title: "Data Management Coordinator"
+      company: "KKN Residents"
+      duration: "June 2022 - July 2023"
+
+# Client & Work
+client_and_work:
+  title: "Clients & Works"
+  enable: false
+
+  clients:
+    - logo:
+        x: "img/clients/asgardia.png"
+        _2x: "img/clients/asgardia@2x.png"
+      alt: "Asgardia"
+
+    - logo:
+        x: "img/clients/earth-2.png"
+        _2x: "img/clients/earth-2@2x.png"
+      alt: "Earth 2.0"
+
+    - logo:
+        x: "img/clients/goldline.png"
+        _2x: "img/clients/goldline@2x.png"
+      alt: "Goldline"
+
+    - logo:
+        x: "img/clients/kanba.png"
+        _2x: "img/clients/kanba@2x.png"
+      alt: "Kanba"
+
+    - logo:
+        x: "img/clients/zoo-tv.png"
+        _2x: "img/clients/zoo-tv@2x.png"
+      alt: "Zoo"
+
+    - logo:
+        x: "img/clients/ztos.png"
+        _2x: "img/clients/ztos@2x.png"
+      alt: "Ztos"
+
+  works:
+    - title: "Radity Finance - UI Kit"
+      description: "We have been receiving a lot of requests for a Finance Kit recently due to the popularity of Fintech."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Case Study"
+        URL: "#"
+      image:
+        x: "img/works/radity-finance.jpg"
+        _2x: "img/works/radity-finance@2x.jpg"
+      is_even: true
+
+    - title: "Swiss Fintech Website"
+      description: "The Swiss Finance + Technology Association is the leading FinTech hub in Switzerland."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Case Study"
+        URL: "#"
+      image:
+        x: "img/works/swissfintech.jpg"
+        _2x: "img/works/swissfintech@2x.jpg"
+      is_even: false
+
+    - title: "Robo Advisor"
+      description: "Robo Advisor is a Swiss Wealth Manager and wants to create the best digital experience for its UNHW clients across the world. We started with a whiteboard."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Case Study"
+        URL: "#"
+      image:
+        x: "img/works/robo-advisor.jpg"
+        _2x: "img/works/robo-advisor@2x.jpg"
+      is_even: true
+
+# testimonial
+testimonial:
+  enable: true
+  title: "Testimonials"
+  items:
+    - name: "Daniel Jordan"
+      position: "Phonet, CEO"
+      content: "Cold calling can be a great way to generate quality leads. You get to speak to the gatekeepers and stakeholders, and you get a great insight into their requirements and influences. But cold calling is an art-form. It can be daunting, it’s always a lot of work, and you always need to make a good impression."
+      image:
+        x: "img/testimonials/daniel-jordan.jpg"
+        _2x: "img/testimonials/daniel-jordan@2x.jpg"
+
+    - name: "Jonathan Peters"
+      position: "Textic, CEO"
+      content: "Whether you or your loved one is encountering the natural decrease in mobility that occurs with the passing of time, or deals with an illness-related lack of physical agility, a stair lift can be the ideal way to put you in charge of your home again. Regardless of the shape or make of your living accommodation."
+      image:
+        x: "img/testimonials/jonathan-peters.jpg"
+        _2x: "img/testimonials/jonathan-peters@2x.jpg"
+
+    - name: "Anil Karakulam"
+      position: "Film Director, President KKN"
+      content: "Ms. Ashwani Sajeevan's efficiency in data management is truly remarkable. Her swift and accurate work as a Data Management Coordinator has greatly streamlined our processes. A reliable professional who consistently delivers exceptional results."
+      image:
+        x: "img/testimonials/antonio-willis.jpg"
+        _2x: "img/testimonials/antonio-willis@2x.jpg"
+
+# contact
+contact:
+  enable: true
+  title: "Contact"
+  form:
+    method: "POST"
+    action: "#"
+    full_name: "Full Name"
+    email: "Email Address"
+    message: "Type Your Message Here"
+  phone:
+    title: "Phone Number"
+    number: "+41 (44) 505 10 99"
+  email:
+    title: "Email"
+    email: '<a href="mailto:team@radity.com">team@radity.com</a>'
+  address:
+    title: "Address"
+    address: "Radity GmbH<br />Max-Bill-Platz 5, 8050 Zürich"
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Send Message"
+
+# newsletter
+newsletter:
+  enable: false
+  title: "Newsletter subscription"
+  success_message: "Successfully subscribed"
+  error_message: "Error while subscribing."
+  note: "We'll never share your email with anyone else."
