@@ -180,14 +180,14 @@ testimonial:
   enable: true
   title: "Testimonials"
   items:
-    - name: "Deepa"
+    - name: "Renju"
       position: "Professor, University of Calicut"
       content: "Ms. Ashwani Sajeevan's efficiency in data management is truly remarkable. Her swift and accurate work as a Data Management Coordinator has greatly streamlined our processes. A reliable professional who consistently delivers exceptional results."
       image:
         x: "img/testimonials/sm.jpg"
         _2x: "img/testimonials/sm2x.jpg"
 
-    - name: "Aravind"
+    - name: "Deepa"
       position: "Professor, University of Calicut"
       content: "Ms. Ashwani Sajeevan's efficiency in data management is truly remarkable. Her swift and accurate work as a Data Management Coordinator has greatly streamlined our processes. A reliable professional who consistently delivers exceptional results."
       image:
