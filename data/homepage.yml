@@ -23,34 +23,10 @@ showcase:
 
   socialLinks:
     - icon: "linkedin"
-      URL: "https://www.linkedin.com/ashwanu/"
+      URL: "https://in.linkedin.com/in/ashwani-sajeevan-83511623b"
 
     - icon: "github"
-      URL: "https://github.com/ashwani"
-
-    - icon: "twitter"
-      URL: "https://twitter.com/ashwani"
-
-    - icon: "dribbble"
-      URL: "https://dribbble.com/ashwani"
-
-    - icon: "behance"
-      URL: "https://www.behance.net/ashwani-digital"
-
-    - icon: "youtube"
-      URL: "https://www.youtube.com/channel/UCojEc6SPO-W1_CoeHhK9-Zw"
-
-    - icon: "instagram"
-      URL: "https://www.instagram.com/teamashwani/"
-
-    - icon: "facebook"
-      URL: "https://www.facebook.com/ashwanicom/"
-
-    - icon: "codepen"
-      URL: "#"
-
-    - icon: "yelp"
-      URL: "https://www.yelp.com/"
+      URL: "https://github.com/ashwani-sajeevan"
 
 # about
 about:
@@ -215,7 +191,7 @@ contact:
     email: '<a href="mailto:ashwanimsajeevan@gmail.com">ashwanimsajeevan@gmail.com</a>'
   address:
     title: "Address"
-    address: "135 Taylor Rd, Niagara-on-the-Lake,<br/> ON L0S 1J0, Canada"
+    address: "Niagara Weland Campus, 135 Taylor Rd ,<br/> ON L0S 1J0, Canada"
   button:
     icon: "icon-mail-fill"
     btnText: "Send Message"
